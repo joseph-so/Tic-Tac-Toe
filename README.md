@@ -1,4 +1,4 @@
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 
 This is my work on the [JetBrains Academy](https://hyperskill.org/)/Python Developer - Tic-Tac-Toe project.
 
