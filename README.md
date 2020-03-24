@@ -1,2 +1,5 @@
-This is my work on the JetBrains Academy/Python Developer - Tic-Tac-Toe project.
-I only use the material which is covered in that curriculum only
+#Tic-Tac-Toe
+
+This is my work on the [JetBrains Academy](https://hyperskill.org/)/Python Developer - Tic-Tac-Toe project.
+
+I have only used the material which are covered in that curriculum only
